@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-  <DaisyNav></DaisyNav>
+  {/* <DaisyNav></DaisyNav> */}
   <Navbar></Navbar>
     </>
   )
