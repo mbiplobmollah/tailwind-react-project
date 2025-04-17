@@ -1,0 +1,61 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": "$29.99/month",
+      "description": "Perfect for beginners who want access to essential equipment.",
+      "features": [
+        "Access to gym equipment",
+        "Locker room access",
+        "1 personal training session per month",
+        "Open gym hours only",
+        "Access to fitness tracking app",
+        "Free water bottle on signup"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "price": "$49.99/month",
+      "description": "Great for regular gym-goers with additional perks and flexibility.",
+      "features": [
+        "All Basic features",
+        "Unlimited group fitness classes",
+        "Access to sauna and steam room",
+        "2 guest passes per month",
+        "Weekend yoga and Zumba sessions",
+        "Monthly body composition analysis"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "price": "$69.99/month",
+      "popular": true,
+      "description": "For fitness enthusiasts who want full access and exclusive services.",
+      "features": [
+        "All Standard features",
+        "Unlimited personal training sessions",
+        "24/7 gym access",
+        "Free merchandise bundle",
+        "Priority class reservations",
+        "Nutrition and meal planning support",
+        "Hydro massage bed access"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Student Plan",
+      "price": "$19.99/month",
+      "description": "Affordable and flexible plan for active students.",
+      "features": [
+        "All Basic features",
+        "Access during student hours (6AM–4PM)",
+        "10% discount on healthy snacks and drinks",
+        "Free Wi-Fi and study lounge access",
+        "Discounted personal training add-ons",
+        "Student-exclusive fitness workshops"
+      ]
+    }
+  ]
+  

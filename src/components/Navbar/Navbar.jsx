@@ -37,7 +37,7 @@ const Navbar = () => {
         </ul>
 
 
-        <button className='btn'>Subscribe</button>
+        <button className='btn'>Sign In</button>
 
             {/* <ul className='flex gap-8'>
         {
